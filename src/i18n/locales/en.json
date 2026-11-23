@@ -1,0 +1,8 @@
+{
+    "common.brand": "MyApp",
+    "nav.home": "Home",
+    "nav.example": "Example",
+    "home.title": "Welcome to Your App",
+    "home.subtitle": "A modern React template with best practices built in.",
+    "home.hint": "Check out the Example page to see the feature architecture in action."
+}

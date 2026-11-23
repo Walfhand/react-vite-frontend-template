@@ -1,0 +1,8 @@
+{
+    "common.brand": "MyApp",
+    "nav.home": "Start",
+    "nav.example": "Voorbeeld",
+    "home.title": "Welkom bij uw app",
+    "home.subtitle": "Een moderne React-template met best practices ingebouwd.",
+    "home.hint": "Bekijk de voorbeeldpagina om de feature-architectuur in actie te zien."
+}
